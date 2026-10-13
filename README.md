@@ -1,5 +1,13 @@
 # Morrow House Studio
 
+## 모델 미리보기
+
+![Morrow House 원본 Blender 모델 렌더. 웹 앱의 실시간 3D 화면 캡처가 아닙니다.](docs/images/morrow-house-blender.png)
+
+Morrow House 원본 Blender 모델 렌더. 웹 앱의 실시간 3D 화면 캡처가 아닙니다.
+
+
+
 Walk through a fictional, generated Blender dream house and arrange its furniture. The GLB is the Morrow House asset; it is not a reconstruction of a private residence.
 
 ## Run the ready-built app
